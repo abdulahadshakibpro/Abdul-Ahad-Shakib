@@ -1,0 +1,41 @@
+section{
+    display:flex;
+    background-image:url(images/top-banner.png);
+    background-repeat:no-repeat;   
+}
+body{
+    margin:0;
+}
+#s1{
+font-size:35px;
+    color:rgba(3, 146, 15, 0.911)
+}
+#s2{
+    color:rgba(3, 146, 15, 0.911)
+}
+#p1{
+    text-align:justify;
+    font-size:20px;
+}
+#d1{
+    padding:10px 40px;
+    margin-left:15px;
+}
+img{
+    padding-top:20px;
+    padding-right:150px;
+}
+h1{
+    font-size:30px;
+}
+h3{
+    font-size:20px;
+}
+.a1{
+    background-color:palegreen;
+    border-radius: 5px;
+    text-decoration:none;
+    font-size:20px;
+    color:rgba(0, 0, 0, 0.911)
+   
+}
