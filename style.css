@@ -1,29 +1,59 @@
-section{
+#section1{
     display:flex;
     background-image:url(images/top-banner.png);
     background-repeat:no-repeat;   
 }
+#section2{
+    display:flex;
+    background-image:url(images/dream-bg.png);
+    background-repeat:no-repeat;   
+    background-position:right;
+    margin:0px;
+
+}
 body{
     margin:0;
 }
-#s1{
+#span1{
 font-size:35px;
     color:rgba(3, 146, 15, 0.911)
 }
-#s2{
+#span2{
+    color:rgba(3, 146, 15, 0.911)
+}
+#span3{
+color:rgba(3, 146, 15, 0.911)
+}
+#span4{
     color:rgba(3, 146, 15, 0.911)
 }
 #p1{
     text-align:justify;
     font-size:20px;
 }
-#d1{
+#p2{
+    font-size:20px;
+    text-align:justify;
+    
+}
+#div1{
     padding:10px 40px;
     margin-left:15px;
+    
 }
-img{
-    padding-top:20px;
+#div2{
+    padding-top:50px;
+    padding-right:300px;
+    margin-left:100px;
+}
+#img1{
+    padding-top:50px;
+    padding-left:150px;
     padding-right:150px;
+    
+}
+#img2{
+margin-left:50px;
 }
 h1{
     font-size:30px;
@@ -37,5 +67,12 @@ h3{
     text-decoration:none;
     font-size:20px;
     color:rgba(0, 0, 0, 0.911)
-   
 }
+.a2{
+    text-decoration:none;
+    font-size:20px;
+    color:black;
+    background-color:lightgreen;
+    border-radius:5px;
+}
+
