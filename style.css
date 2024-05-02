@@ -27,7 +27,30 @@ padding-left:50px;
 padding-right:60px;
 }
 .experiance-area{
-    
+    padding-top:50px;
+}
+.experiance-item{
+    width:40%;
+   box-shadow:10px 10px 40px grey; 
+   margin-left:5%;
+   margin-right:5%;
+   padding-left:20px;
+   padding-right:20px;
+   margin-bottom:40px;
+}
+#Full-Stack-Web-Developer{
+    border-radius:10px;
+    border-bottom:solid 7px rgb(34, 158, 34);
+}
+#Juniour-Web-Developer{
+  border-radius:10px;  
+  border-bottom:solid 7px orange;
+}
+#green-color{
+    color:rgb(34, 158, 34);
+}
+#orange-color{
+    color:orange;
 }
 span{
     color:rgb(34, 158, 34);
@@ -41,4 +64,7 @@ a{
     background-color:lightgreen;
     border:solid 5px lightgreen;
     text-decoration:none;
+}
+footer{
+    text-align:center;
 }
